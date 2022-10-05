@@ -58,5 +58,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ogundelecaleb&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogundelecaleb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=ogundelecaleb&theme=vision-friendly-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=ogundelecaleb&theme=vision-friendly-dark" />
 
